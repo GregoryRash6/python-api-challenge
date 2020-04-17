@@ -1,0 +1,4 @@
+Observable Trends:
+1. The strongest r-squared value I found was comparing the Northern Hemisphere’s latitude to the temperatures of cities that correspond. I am most confident saying that as you get farther north from the equator, the average temperature will fall.
+2. The r-squared value for the Northern Hemisphere’s latitude to the temperatures of cities that correspond is markedly higher than the same comparison for the Southern Hemisphere. I would want to investigate this further to see why the Northern Hemisphere appears to be more consistent. 
+3. The graphs for latitude vs cloudiness, humidity, and wind speed, respectively, have very low r-squared values. The correlation between latitude and these different measures are too low to draw meaningful conclusions.
